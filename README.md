@@ -54,3 +54,32 @@ GitHubにプッシュする
 ```
 git push origin gh-pages
 ```
+4. READMEのアップデート  
+masterブランチを最新にする
+```
+git checkout master
+git pull origin master
+```
+アップデート用のブランチにチェックアウトする
+```
+git checkout -b (それっぽいブランチ名)
+```
+移動したことを確認する
+```
+*新しく作ったブランチ
+master
+gh-pages
+```
+`README.md`をテキストエディターで開く  
+ゲームのURLは以下のように作る  
+```
+https://nikonamakudou.github.io/games/(放送日)/(名前)  
+```
+ブラウザで開けることを確認したら`README.md`に書き足す  
+変更をコミットする  
+```
+git add README.md
+git commit -m "いい感じのコミットメッセージを書く"
+git push origin 新しく作ったブランチ
+```
+GitHubでプルリクを作って完了
