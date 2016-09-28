@@ -31,29 +31,40 @@ cd nikonamakudou/games/(放送日)/(名前)
 ```
 git branch
 ```
-masterにいることを確認する
+ローカル環境のgh-pages ブランチを最新にする   
+・ gh-pagesがない場合
 ```
-*master
+git fetch
+git checkout -b gh-pages
+git pull orogin gh-pages
+```
+・gh-pagesがある場合
+```
+git checkout gh-pages
+git pull origin gh-pages
 ```  
-gh-pagesブランチにチェックアウトする  
+プルリク作る用ブランチにチェックアウトする  
 ```  
-git checkout -b gh-pages  
+git checkout -b (hogehoge)  
 git branch
 ```
-gh-pagesに切り替わったことを確認する
+作ったブランチに切り替わったことを確認する
 ```
-*gh-pages
+*hogehoge
+gh-pages
 master
 ```
-gh-pagesブランチに変更をコミットする
+作ったブランチに変更をコミットする
 ```
 git add .
 git commit -m "ゲーム作ったよ"
 ```
 GitHubにプッシュする
 ```
-git push origin gh-pages
+git push origin hogehoge
 ```
+GitHub上でgh-pagesにプルリクを作る  
+
 4. READMEのアップデート  
 masterブランチを最新にする
 ```
@@ -62,11 +73,11 @@ git pull origin master
 ```
 アップデート用のブランチにチェックアウトする
 ```
-git checkout -b (それっぽいブランチ名)
+git checkout -b (fugafuga)
 ```
 移動したことを確認する
 ```
-*新しく作ったブランチ
+*fugafuga
 master
 gh-pages
 ```
@@ -80,6 +91,6 @@ https://nikonamakudou.github.io/games/(放送日)/(名前)
 ```
 git add README.md
 git commit -m "いい感じのコミットメッセージを書く"
-git push origin 新しく作ったブランチ
+git push origin fugafuga
 ```
 GitHubでプルリクを作って完了
