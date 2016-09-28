@@ -3,7 +3,11 @@
 ニコ生駆動開発で作成されたゲームを公開するリポジトリです
 
 - 20160929放送分  
-(まだ無いようだ)
+[配信枠 http://live.nicovideo.jp/gate/lv277158737](http://live.nicovideo.jp/gate/lv277158737)  
+ - その１  
+ [https://nikonamakudou.github.io/games/20160929/t-zouchi/](https://nikonamakudou.github.io/games/20160929/t-zouchi/)
+ - その２  
+ [https://nikonamakudou.github.io/games/20160929/M-Kunsan/](https://nikonamakudou.github.io/games/20160929/M-Kunsan/)
 
 ## ゲームのアップロード手順
 1. リポジトリをクローンする  
