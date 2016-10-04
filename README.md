@@ -8,6 +8,10 @@
  [https://nikonamakudou.github.io/games/20160929/t-zouchi/](https://nikonamakudou.github.io/games/20160929/t-zouchi/)
  - その２  
  [https://nikonamakudou.github.io/games/20160929/M-Kunsan/](https://nikonamakudou.github.io/games/20160929/M-Kunsan/)
+ ※一部攻略不可ステージが存在することを確認。また、床抜けバグが発生し無限落下する可能性があることを確認。(あと画面サイズがデカい)
+ 　上記に遭遇した場合の対処方法：
+ 　・「Q」+「F」で強制的にステージクリアに持っていく。
+ 　・「クソゲー！」と叫んでブラウザバックまたはブラウザを閉じる。
 
 ## ゲームのアップロード手順
 1. リポジトリをクローンする  
