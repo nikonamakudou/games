@@ -13,7 +13,15 @@
  　上記に遭遇した場合の対処方法：  
  　・「Q」+「F」で強制的にステージクリアに持っていく。  
  　・「クソゲー！」と叫んでブラウザバックまたはブラウザを閉じる。  
-  
+
+- 20161027放送分  
+[配信枠 http://live.nicovideo.jp/watch/lv279897148](http://live.nicovideo.jp/watch/lv279897148)
+ - その１  
+ [https://nikonamakudou.github.io/201610/t-zouchi](https://nikonamakudou.github.io/201610/t-zouchi )  
+ 先月のその１のアップデートバージョン
+ - その２  
+ [https://nikonamakudou.github.io/201610/y-matsui](https://nikonamakudou.github.io/201610/y-matsui )
+
 ## ゲームのアップロード手順
 1. リポジトリをクローンする  
 コマンドプロンプトを開き、クローンするフォルダに移動  
