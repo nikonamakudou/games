@@ -21,6 +21,9 @@
  先月のその１のアップデートバージョン
  - その２  
  [https://nikonamakudou.github.io/201610/y-matsui](https://nikonamakudou.github.io/201610/y-matsui )
+ - その3  
+ [https://nikonamakudou.github.io/201610/h-nishimura](https://nikonamakudou.github.io/201610/h-nishimura )
+
 
 ## ゲームのアップロード手順
 1. リポジトリをクローンする  
