@@ -2,6 +2,15 @@
 
 ニコ生駆動開発で作成されたゲームを公開するリポジトリです
 
+- 20161207放送分  
+[配信枠 http://live.nicovideo.jp/watch/lv283974562](http://live.nicovideo.jp/watch/lv283974562)
+ - その１  
+ [https://nikonamakudou.github.io/201611/t-zouchi](https://nikonamakudou.github.io/201611/t-zouchi )  
+ 先月のその１のアップデートバージョン
+ - その２  
+ [https://nikonamakudou.github.io/201611/y-matsui](https://nikonamakudou.github.io/201611/y-matsui )
+
+
 - 20160929放送分  
 [配信枠 http://live.nicovideo.jp/gate/lv277158737](http://live.nicovideo.jp/gate/lv277158737)  
  - その１  
