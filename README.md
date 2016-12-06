@@ -6,7 +6,6 @@
 [配信枠 http://live.nicovideo.jp/watch/lv283974562](http://live.nicovideo.jp/watch/lv283974562)
  - その１  
  [https://nikonamakudou.github.io/201611/t-zouchi](https://nikonamakudou.github.io/201611/t-zouchi )  
- 先月のその１のアップデートバージョン
  - その２  
  [https://nikonamakudou.github.io/201611/y-matsui](https://nikonamakudou.github.io/201611/y-matsui )
 
